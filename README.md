@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mushabbar-ahmed
+- 👀 I’m interested in full-stack development, machine learning, and innovative automation solutions.
+- 🌱 I’m currently learning advanced React, Flask, and machine learning techniques to enhance web applications and prediction models.
+- 💞️ I’m looking to collaborate on AI-driven web apps, smart city projects, and MERN stack-based systems.
+- 📫 How to reach me: You can reach me via email at mushuu123456@gmail.com or connect with me on LinkedIn at linkedin.com/in/mushabbar-ahmed.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve built a face recognition-based attendance system and love exploring ways to merge tech with real-world problems!
